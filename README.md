@@ -2,8 +2,8 @@
 
 This repository provides information about supported recognised geographic features in maps in IBM Cognos Analytics releases.
 
-Locate the folder matching the release you are on or the next previous version if there's no exact match : features are not guaranteed to update on a per-release basis.
+Feature lists are not guaranteed to be updated on a per-release basis so locate the folder that covers the version of CA that you are running.
 
-In each folder you will find:
-* A file called "**IBM CA 11.1 Administrative Hierarchy.xlsx**" which provides a summary of each supported country with the type and count of supported subregions.
-* A file called "**IBM CA 11.1 Administrative Features.xlsx**" which provides an exhaustive list of each feature name with all the recognised aliases for that feature
+[Release 11.0.9 through 11.1.2](https://github.com/IBM/ca_mapping_features/tree/master/11.0.9)
+
+[Release 11.1.3 onwards](https://github.com/IBM/ca_mapping_features/tree/master/11.1.3)
